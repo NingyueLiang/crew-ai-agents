@@ -1,6 +1,8 @@
 # Frank's Personal Multi-Agent System
 
-A streamlined CrewAI agent system designed for Frank (Ningyue Liang) with two specialized agents:
+Name: Frank Liang Track: Tech
+
+A streamlined CrewAI agent system designed for Frank with two specialized agents:
 
 1. **Frank's Information Assistant** - Answers questions about Frank's background, education, and interests
 2. **Sports News Assistant** - Provides Frank's favorite sports news and analysis based on user interests
